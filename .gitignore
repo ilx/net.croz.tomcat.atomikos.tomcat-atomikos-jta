@@ -1,5 +1,10 @@
 *.class
 
+# maven and eclipse
+target/
+.settings/
+.*
+
 # Package Files #
 *.jar
 *.war
