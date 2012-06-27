@@ -10,5 +10,5 @@ Configure Atomikos as usual.
 
 Add to tomcat's context.xml this line:
 
-<Transaction factory="net.croz.tomcat.atomikos.AtomikosUnifiedTransactionManagerFactory">
+     <Transaction factory="net.croz.tomcat.atomikos.AtomikosUnifiedTransactionManagerFactory">
 
